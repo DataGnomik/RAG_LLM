@@ -1,0 +1,15 @@
+# Тестовые ноутбуки
+test.ipynb
+test_llm.ipynb
+
+# Папки создаются автоматически при запуске Докера
+ollama
+weaviate
+
+# Пароли / Окружение
+.env
+.venv
+
+# Картинки
+img/HNSW.png
+img/simple_rag.png
