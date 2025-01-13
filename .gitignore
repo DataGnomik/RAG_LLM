@@ -1,6 +1,6 @@
 # Тестовые ноутбуки
 test.ipynb
-test_llm.ipynb
+# test_llm.ipynb
 
 # Папки создаются автоматически при запуске Докера
 ollama
